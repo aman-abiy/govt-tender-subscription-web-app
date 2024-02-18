@@ -1,0 +1,43 @@
+{
+  "name": "alpha_tenders",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@grapoza/vue-tree": "^4.0.3",
+    "@riophae/vue-treeselect": "^0.4.0",
+    "axios": "^0.26.1",
+    "core-js": "^2.6.5",
+    "cozy-device-helper": "^1.17.0",
+    "dotenv": "^16.0.0",
+    "ethiopic-calendar": "^2.0.0",
+    "javascript-time-ago": "^2.3.13",
+    "maz-ui": "^2.3.13",
+    "print-js": "^1.6.0",
+    "public-ip": "^4.0.4",
+    "simple-shimmer": "^0.1.5",
+    "smart-webcomponents": "^14.0.0",
+    "v-ztree": "^1.2.0",
+    "vee-validate": "^3.4.11",
+    "vue": "^2.6.10",
+    "vue-plain-pagination": "^0.3.0",
+    "vue-router": "^3.0.3",
+    "vue-toast-notification": "^0.5.4",
+    "vuejs-tree": "^3.0.2",
+    "vuex": "^3.0.1",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.2",
+    "@vue/cli-plugin-eslint": "^3.0.2",
+    "@vue/cli-service": "^3.0.2",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
